@@ -1,3 +1,4 @@
+AddType application/x-httpd-php71 .php
 <IfModule mod_rewrite.c>
   Options +FollowSymlinks -Multiviews
   RewriteEngine On
